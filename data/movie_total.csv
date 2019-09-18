@@ -1,0 +1,25 @@
+﻿id,movie,phase,name
+m14,1,1,Iron Man
+m20,2,1,The Incredible Hulk
+m15,3,1,Iron Man 2
+m21,4,1,Thor
+m7,5,1,Captain America: The First Avenger
+m19,6,1,The Avengers
+m16,7,2,Iron Man 3
+m23,8,2,Thor: The Dark World
+m8,9,2,Captain America: The Winter Soldier
+m11,10,2,Guardians of the Galaxy
+m3,11,2,Avengers: Age of Ultron
+m0,12,2,Ant-Man
+m6,13,3,Captain America: Civil War
+m10,14,3,Doctor Strange
+m12,15,3,Guardians of the Galaxy Vol. 2
+m18,16,3,Spider-Man: Homecoming
+m22,17,3,Thor: Ragnarok
+m5,18,3,Black Panther
+m4,19,3,Avengers: Infinity War
+m1,20,3,Ant-Man and the Wasp
+m9,21,3,Captain Marvel
+m2,22,3,Avengers: Endgame
+m17,23,4,Spider-Man: Far From Home
+m13,24,4,Guardians of the Galaxy Vol. 3

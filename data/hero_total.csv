@@ -1,0 +1,29 @@
+id,hero,hero_name,real_name,num_movies,color
+h12,c01,Iron Man,Tony Stark,10,#EB3223
+h16,c02,Nick Fury,,10,#1C1926
+h3,c03,Captain America,Steve Rogers,9,#363A80
+h23,c04,Thor,Odinson,8,#BC1A27
+h11,c05,Hulk,Bruce Banner,7,#50B127
+h2,c06,Black Widow,Natasha Romanoff,7,#363A80
+h25,c07,War Machine,James Rhodes,7,#5865B0
+h27,c08,Winter Soldier,Bucky Barnes,7,#1C1926
+h21,c09,Spider-Man,Peter Parker,6,#EB3223
+h13,c10,Loki,Laufey,6,#50B127
+h7,c11,Falcon,Sam Wilson,6,#2C9AC6
+h0,c12,Ant-Man,Scott Lang,5,#BC1A27
+h10,c13,Hawkeye,Clint Barton,5,#5865B0
+h20,c14,Scarlet Witch,Wanda Maximoff,5,#BC1A27
+h22,c15,Star-Lord,Peter Quill,5,#EB3223
+h19,c16,Rocket Raccoon,Subject 89P13,5,#E47C41
+h6,c17,Drax,the Destroyer,5,#5865B0
+h9,c18,Groot,,5,#F6B42B
+h8,c19,Gamora,,4,#50B127
+h15,c20,Nebula,,4,#C9CCE9
+h14,c21,Mantis,,4,#82C3AA
+h1,c22,Black Panther,T'Challa,4,#2F2F2F
+h5,c23,Doctor Strange,Stephen Strange,4,#BC1A27
+h24,c24,Vision,,4,#EB3223
+h17,c25,Odin,,3,#5865B0
+h26,c26,Wasp,Hope van Dyne,3,#363A80
+h18,c27,Quicksilver,,2,#2C9AC6
+h4,c28,Captain Marvel,Carol Danvers,2,#363A80

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- JavaScript plugin files -->
+	<script src="js/plugins/d3.min.js"></script>
+	<script src="js/plugins/lodash.min.js"></script>
+	<script src="js/plugins/d3-annotation.min.js"></script>
+	<script src="js/webfont.js"></script>
+
+	<!-- Custom JavaScript files -->
+	<script src="js/main.js"></script>
+
+	<!-- Styling -->
+	<link href="css/style.css" rel="stylesheet">
+	<!-- Google fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,400i,600|Barlow:400" rel="stylesheet">
+
+</head>
+
+<body>
+	<!-- Chart -->
+	<div id="chart-container">
+		<div id="chart"></div>
+	</div>
+
+	<script>
+
+		WebFont.load({
+			google: {
+				families: ['Barlow Semi Condensed:400,400i,60','Barlow:400']
+			},
+			active: function() { 
+				//Create the visual
+				setTimeout(create_MCU_chart,500); 
+			}
+		});
+		
+		var current_width = window.innerWidth;
+		var eventTimeout; // Set timeout variable
+
+		d3.select(window).on('resize', function() {
+			//Only resize if the width is changed, not the height
+			//Otherwise you get odd behavior on mobile due to URL bar appearing and disappearing
+			if(window.innerWidth !== current_width) {
+				current_width = window.innerWidth;
+				//Ignore resize events as long as an actualResizeHandler execution is in the queue
+				if ( !eventTimeout ) {
+					eventTimeout = setTimeout(function() {
+						eventTimeout = null;
+						create_MCU_chart();
+					}, 800);
+				}
+			};
+		}, false);//on resize
+    </script>
+
+</body>
+
+</html>
