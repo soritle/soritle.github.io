@@ -1,0 +1,610 @@
+[
+    {
+        "movie": 12,
+        "hero": "c12"
+    },
+    {
+        "movie": 13,
+        "hero": "c12"
+    },
+    {
+        "movie": 16,
+        "hero": "c12"
+    },
+    {
+        "movie": 20,
+        "hero": "c12"
+    },
+    {
+        "movie": 22,
+        "hero": "c12"
+    },
+    {
+        "movie": 13,
+        "hero": "c22"
+    },
+    {
+        "movie": 18,
+        "hero": "c22"
+    },
+    {
+        "movie": 19,
+        "hero": "c22"
+    },
+    {
+        "movie": 22,
+        "hero": "c22"
+    },
+    {
+        "movie": 3,
+        "hero": "c06"
+    },
+    {
+        "movie": 6,
+        "hero": "c06"
+    },
+    {
+        "movie": 9,
+        "hero": "c06"
+    },
+    {
+        "movie": 11,
+        "hero": "c06"
+    },
+    {
+        "movie": 13,
+        "hero": "c06"
+    },
+    {
+        "movie": 19,
+        "hero": "c06"
+    },
+    {
+        "movie": 22,
+        "hero": "c06"
+    },
+    {
+        "movie": 5,
+        "hero": "c03"
+    },
+    {
+        "movie": 6,
+        "hero": "c03"
+    },
+    {
+        "movie": 9,
+        "hero": "c03"
+    },
+    {
+        "movie": 11,
+        "hero": "c03"
+    },
+    {
+        "movie": 12,
+        "hero": "c03"
+    },
+    {
+        "movie": 13,
+        "hero": "c03"
+    },
+    {
+        "movie": 16,
+        "hero": "c03"
+    },
+    {
+        "movie": 19,
+        "hero": "c03"
+    },
+    {
+        "movie": 22,
+        "hero": "c03"
+    },
+    {
+        "movie": 21,
+        "hero": "c28"
+    },
+    {
+        "movie": 22,
+        "hero": "c28"
+    },
+    {
+        "movie": 14,
+        "hero": "c23"
+    },
+    {
+        "movie": 17,
+        "hero": "c23"
+    },
+    {
+        "movie": 19,
+        "hero": "c23"
+    },
+    {
+        "movie": 22,
+        "hero": "c23"
+    },
+    {
+        "movie": 10,
+        "hero": "c17"
+    },
+    {
+        "movie": 15,
+        "hero": "c17"
+    },
+    {
+        "movie": 19,
+        "hero": "c17"
+    },
+    {
+        "movie": 22,
+        "hero": "c17"
+    },
+    {
+        "movie": 24,
+        "hero": "c17"
+    },
+    {
+        "movie": 9,
+        "hero": "c11"
+    },
+    {
+        "movie": 11,
+        "hero": "c11"
+    },
+    {
+        "movie": 12,
+        "hero": "c11"
+    },
+    {
+        "movie": 13,
+        "hero": "c11"
+    },
+    {
+        "movie": 19,
+        "hero": "c11"
+    },
+    {
+        "movie": 22,
+        "hero": "c11"
+    },
+    {
+        "movie": 10,
+        "hero": "c19"
+    },
+    {
+        "movie": 15,
+        "hero": "c19"
+    },
+    {
+        "movie": 19,
+        "hero": "c19"
+    },
+    {
+        "movie": 22,
+        "hero": "c19"
+    },
+    {
+        "movie": 10,
+        "hero": "c18"
+    },
+    {
+        "movie": 15,
+        "hero": "c18"
+    },
+    {
+        "movie": 19,
+        "hero": "c18"
+    },
+    {
+        "movie": 22,
+        "hero": "c18"
+    },
+    {
+        "movie": 24,
+        "hero": "c18"
+    },
+    {
+        "movie": 4,
+        "hero": "c13"
+    },
+    {
+        "movie": 6,
+        "hero": "c13"
+    },
+    {
+        "movie": 11,
+        "hero": "c13"
+    },
+    {
+        "movie": 13,
+        "hero": "c13"
+    },
+    {
+        "movie": 22,
+        "hero": "c13"
+    },
+    {
+        "movie": 2,
+        "hero": "c05"
+    },
+    {
+        "movie": 6,
+        "hero": "c05"
+    },
+    {
+        "movie": 7,
+        "hero": "c05"
+    },
+    {
+        "movie": 11,
+        "hero": "c05"
+    },
+    {
+        "movie": 17,
+        "hero": "c05"
+    },
+    {
+        "movie": 19,
+        "hero": "c05"
+    },
+    {
+        "movie": 22,
+        "hero": "c05"
+    },
+    {
+        "movie": 1,
+        "hero": "c01"
+    },
+    {
+        "movie": 2,
+        "hero": "c01"
+    },
+    {
+        "movie": 3,
+        "hero": "c01"
+    },
+    {
+        "movie": 6,
+        "hero": "c01"
+    },
+    {
+        "movie": 7,
+        "hero": "c01"
+    },
+    {
+        "movie": 11,
+        "hero": "c01"
+    },
+    {
+        "movie": 13,
+        "hero": "c01"
+    },
+    {
+        "movie": 16,
+        "hero": "c01"
+    },
+    {
+        "movie": 19,
+        "hero": "c01"
+    },
+    {
+        "movie": 22,
+        "hero": "c01"
+    },
+    {
+        "movie": 4,
+        "hero": "c10"
+    },
+    {
+        "movie": 6,
+        "hero": "c10"
+    },
+    {
+        "movie": 8,
+        "hero": "c10"
+    },
+    {
+        "movie": 17,
+        "hero": "c10"
+    },
+    {
+        "movie": 19,
+        "hero": "c10"
+    },
+    {
+        "movie": 22,
+        "hero": "c10"
+    },
+    {
+        "movie": 15,
+        "hero": "c21"
+    },
+    {
+        "movie": 19,
+        "hero": "c21"
+    },
+    {
+        "movie": 22,
+        "hero": "c21"
+    },
+    {
+        "movie": 24,
+        "hero": "c21"
+    },
+    {
+        "movie": 10,
+        "hero": "c20"
+    },
+    {
+        "movie": 15,
+        "hero": "c20"
+    },
+    {
+        "movie": 19,
+        "hero": "c20"
+    },
+    {
+        "movie": 22,
+        "hero": "c20"
+    },
+    {
+        "movie": 1,
+        "hero": "c02"
+    },
+    {
+        "movie": 3,
+        "hero": "c02"
+    },
+    {
+        "movie": 4,
+        "hero": "c02"
+    },
+    {
+        "movie": 5,
+        "hero": "c02"
+    },
+    {
+        "movie": 6,
+        "hero": "c02"
+    },
+    {
+        "movie": 9,
+        "hero": "c02"
+    },
+    {
+        "movie": 11,
+        "hero": "c02"
+    },
+    {
+        "movie": 19,
+        "hero": "c02"
+    },
+    {
+        "movie": 21,
+        "hero": "c02"
+    },
+    {
+        "movie": 23,
+        "hero": "c02"
+    },
+    {
+        "movie": 4,
+        "hero": "c25"
+    },
+    {
+        "movie": 8,
+        "hero": "c25"
+    },
+    {
+        "movie": 17,
+        "hero": "c25"
+    },
+    {
+        "movie": 9,
+        "hero": "c27"
+    },
+    {
+        "movie": 11,
+        "hero": "c27"
+    },
+    {
+        "movie": 10,
+        "hero": "c16"
+    },
+    {
+        "movie": 15,
+        "hero": "c16"
+    },
+    {
+        "movie": 19,
+        "hero": "c16"
+    },
+    {
+        "movie": 22,
+        "hero": "c16"
+    },
+    {
+        "movie": 24,
+        "hero": "c16"
+    },
+    {
+        "movie": 9,
+        "hero": "c14"
+    },
+    {
+        "movie": 11,
+        "hero": "c14"
+    },
+    {
+        "movie": 13,
+        "hero": "c14"
+    },
+    {
+        "movie": 19,
+        "hero": "c14"
+    },
+    {
+        "movie": 22,
+        "hero": "c14"
+    },
+    {
+        "movie": 3,
+        "hero": "c09"
+    },
+    {
+        "movie": 13,
+        "hero": "c09"
+    },
+    {
+        "movie": 16,
+        "hero": "c09"
+    },
+    {
+        "movie": 19,
+        "hero": "c09"
+    },
+    {
+        "movie": 22,
+        "hero": "c09"
+    },
+    {
+        "movie": 23,
+        "hero": "c09"
+    },
+    {
+        "movie": 10,
+        "hero": "c15"
+    },
+    {
+        "movie": 15,
+        "hero": "c15"
+    },
+    {
+        "movie": 19,
+        "hero": "c15"
+    },
+    {
+        "movie": 22,
+        "hero": "c15"
+    },
+    {
+        "movie": 24,
+        "hero": "c15"
+    },
+    {
+        "movie": 4,
+        "hero": "c04"
+    },
+    {
+        "movie": 6,
+        "hero": "c04"
+    },
+    {
+        "movie": 8,
+        "hero": "c04"
+    },
+    {
+        "movie": 11,
+        "hero": "c04"
+    },
+    {
+        "movie": 14,
+        "hero": "c04"
+    },
+    {
+        "movie": 17,
+        "hero": "c04"
+    },
+    {
+        "movie": 19,
+        "hero": "c04"
+    },
+    {
+        "movie": 22,
+        "hero": "c04"
+    },
+    {
+        "movie": 11,
+        "hero": "c24"
+    },
+    {
+        "movie": 13,
+        "hero": "c24"
+    },
+    {
+        "movie": 19,
+        "hero": "c24"
+    },
+    {
+        "movie": 22,
+        "hero": "c24"
+    },
+    {
+        "movie": 1,
+        "hero": "c07"
+    },
+    {
+        "movie": 3,
+        "hero": "c07"
+    },
+    {
+        "movie": 7,
+        "hero": "c07"
+    },
+    {
+        "movie": 11,
+        "hero": "c07"
+    },
+    {
+        "movie": 13,
+        "hero": "c07"
+    },
+    {
+        "movie": 19,
+        "hero": "c07"
+    },
+    {
+        "movie": 22,
+        "hero": "c07"
+    },
+    {
+        "movie": 12,
+        "hero": "c26"
+    },
+    {
+        "movie": 20,
+        "hero": "c26"
+    },
+    {
+        "movie": 22,
+        "hero": "c26"
+    },
+    {
+        "movie": 5,
+        "hero": "c08"
+    },
+    {
+        "movie": 9,
+        "hero": "c08"
+    },
+    {
+        "movie": 12,
+        "hero": "c08"
+    },
+    {
+        "movie": 13,
+        "hero": "c08"
+    },
+    {
+        "movie": 18,
+        "hero": "c08"
+    },
+    {
+        "movie": 19,
+        "hero": "c08"
+    },
+    {
+        "movie": 22,
+        "hero": "c08"
+    }
+]

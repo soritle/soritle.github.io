@@ -1,0 +1,13 @@
+﻿source,target,type,x,y,note
+c01,c07,friends,-40,0,Rhodey is Tony's friend
+c02,c28,friends,20,-70,Carol is Nick's friend
+c06,c13,friends,20,70,Clint is Natasha's best friend
+c04,c25,family,-10,-20,Odin is Thor's father
+c04,c10,family,0,50,Loki is Thor's younger brother
+c03,c08,friends,0,20,Bucky is Steve's best friend
+c03,c11,friends,-15,0,Sam is Steve's friend
+c14,c27,family,35,0,Quicksiver is Wanda's younger brother
+c15,c19,love,-50,80,Peter Quill and Gamora love each other
+c19,c20,family,-70,-40,Nebula is Gamora's sister
+c12,c26,love,70,20,Scott and Hope love each other
+c24,c14,love,10,20,Wanda and Vision love each other
